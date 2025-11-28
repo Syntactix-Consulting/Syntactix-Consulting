@@ -1,47 +1,64 @@
-# Syntactix
+<div align="center">
 
-> **Turning Ideas into Intelligent Execution.**
+# S Y N T A C T I X
 
-## 🚀 About Us
+### Turning Ideas into Intelligent Execution
 
-We are **Syntactix**, a forward-thinking consulting firm dedicated to building innovative solutions that drive real impact. We specialize in transforming complex business challenges into streamlined, intelligent, and scalable digital products. From modern web applications to cutting-edge AI integrations, we bridge the gap between concept and execution.
-
----
-
-## 🛠 Services
-
-### 💻 Full Stack Development
-End-to-end web application development built for performance and scalability.
-- **Solutions**: Modern architecture, responsive UI/UX, cloud-native deployment.
-- **Focus**: Eliminating legacy bottlenecks and enhancing user experience.
-
-### 🤖 AI Solutions
-Intelligent automation and machine learning models that redefine business operations.
-- **Solutions**: Custom AI models, NLP for data extraction, intelligent chatbots.
-- **Focus**: Automating manual processes and unlocking insights from data.
-
-### 🔗 Integration Projects
-Seamlessly connecting disparate systems to create unified, efficient workflows.
-- **Solutions**: API development, real-time synchronization, custom middleware.
-- **Focus**: Breaking down data silos and ensuring real-time visibility.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/syntactix-consulting/)
+[![Website](https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://syntactix.com)
 
 ---
 
-## ⚡ Tech Stack
+</div>
 
-We leverage a robust and modern technology stack to deliver excellence:
+## ⚡ About Us
 
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, Next.js, TypeScript, TailwindCSS |
-| **Backend** | Node.js, Python, FastAPI, GraphQL, REST APIs |
-| **Database** | PostgreSQL, MongoDB, Firebase, Vector DBs |
-| **AI & Data** | TensorFlow, LangChain, PySpark, ETL Pipelines |
-| **DevOps** | Docker, Cloud-Native Strategies, CI/CD |
+We are **Syntactix**, a premier consulting firm engineering the future of digital business. We bridge the gap between complex challenges and scalable, intelligent solutions. Our expertise lies in crafting high-performance web applications, integrating cutting-edge AI, and optimizing data workflows to drive measurable impact.
+
+---
+
+## 🛠 What We Build
+
+| **Full Stack Development** | **AI & Automation** | **System Integration** |
+|:---:|:---:|:---:|
+| 💻 | 🤖 | 🔗 |
+| Scalable, cloud-native web applications built for performance. | Custom AI models, NLP pipelines, and intelligent chatbots. | Unified workflows connecting disparate systems and APIs. |
+
+---
+
+## 💻 Tech Stack
+
+We leverage a modern, battle-tested stack to deliver excellence.
+
+### **Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+### **Backend & API**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Data & AI**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 <div align="center">
-  <p>Ready to transform your business?</p>
-  <a href="https://www.linkedin.com/company/syntactix-consulting/"><strong>Connect with us on LinkedIn</strong></a>
+  <p>Built with ❤️ by the Syntactix Team</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=syntactix-consulting&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
 </div>
