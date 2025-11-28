@@ -5,7 +5,7 @@
 ### Turning Ideas into Intelligent Execution
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/syntactix-consulting/)
-[![Website](https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://syntactix.com)
+[![Website](https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://syntactix-consulting.vercel.app/)
 
 ---
 
@@ -57,7 +57,7 @@ We leverage a modern, battle-tested stack to deliver excellence.
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the Syntactix Team</p>
+  <p>Built with Syntactix Team</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=syntactix-consulting&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
